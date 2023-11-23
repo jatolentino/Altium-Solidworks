@@ -5,6 +5,7 @@ Because Solidworks PCB can collaboratio via the push-pull method with Solidworks
 
 ### From Altium PCB to Solidworks
 
+
 1. Export the PCB file from Altium Designer to a CircuitMaker file
 2. Import the latter CircuitMaker file into Solidworks PCB (option View > Solidworks PCB Connector)
 3. A new file will be generated with extension *.SWPCBDoc
